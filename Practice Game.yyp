@@ -45,6 +45,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_roll","path":"sprites/spr_roll/spr_roll.yy",},},
     {"id":{"name":"spr_run","path":"sprites/spr_run/spr_run.yy",},},
+    {"id":{"name":"spr_slime","path":"sprites/spr_slime/spr_slime.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
     {"id":{"name":"platform_tiles","path":"tilesets/platform_tiles/platform_tiles.yy",},},
     {"id":{"name":"world_tiles","path":"tilesets/world_tiles/world_tiles.yy",},},
