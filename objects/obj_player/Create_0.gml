@@ -20,10 +20,10 @@ onGround = true;
 //sprites
 idleSpr = spr_character;
 walkSpr = spr_character;
-runSpr = spr_run;
+runSpr = spr_charRun;
 rollSpr = spr_roll;
 deathSpr = spr_death;
-hurtSpr = spr_hurt;
+hurtSpr = spr_charHurt;
 
 //Tiles
 tile_map = layer_tilemap_get_id("Tiles_Col");
