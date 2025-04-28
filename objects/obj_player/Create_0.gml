@@ -18,8 +18,8 @@ jumpCount = 0;
 onGround = true;
 
 //sprites
-idleSpr = spr_player;
-walkSpr = spr_player;
+idleSpr = spr_character;
+walkSpr = spr_character;
 runSpr = spr_run;
 rollSpr = spr_roll;
 deathSpr = spr_death;
