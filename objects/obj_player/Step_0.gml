@@ -1,3 +1,5 @@
+//movement
+#region
 getControls();
 
 
@@ -71,6 +73,12 @@ if abs(xspd) >= moveSpd[1] {sprite_index = runSpr;};
 //Not moving
 if onGround && xspd == 0 {sprite_index = idleSpr;};
 	mask_index = idleSpr;
+#endregion
+
+//attack
+#region
+
+#endregion
 
 
 

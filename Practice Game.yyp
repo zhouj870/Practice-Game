@@ -28,7 +28,8 @@
   "name":"Practice Game",
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"obj_slash","path":"objects/obj_slash/obj_slash.yy",},},
+    {"id":{"name":"testR","path":"rooms/testR/testR.yy",},},
     {"id":{"name":"GeneralControls","path":"scripts/GeneralControls/GeneralControls.yy",},},
     {"id":{"name":"spr_character","path":"sprites/spr_character/spr_character.yy",},},
     {"id":{"name":"spr_charAttack","path":"sprites/spr_charAttack/spr_charAttack.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"spr_platform","path":"sprites/spr_platform/spr_platform.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_roll","path":"sprites/spr_roll/spr_roll.yy",},},
+    {"id":{"name":"spr_slash","path":"sprites/spr_slash/spr_slash.yy",},},
     {"id":{"name":"spr_slime_hurt","path":"sprites/spr_slime_hurt/spr_slime_hurt.yy",},},
     {"id":{"name":"spr_slime","path":"sprites/spr_slime/spr_slime.yy",},},
     {"id":{"name":"spr_slimeIdle","path":"sprites/spr_slimeIdle/spr_slimeIdle.yy",},},
@@ -59,7 +61,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"testR","path":"rooms/testR/testR.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

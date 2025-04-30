@@ -21,8 +21,7 @@ onGround = true;
 idleSpr = spr_character;
 walkSpr = spr_character;
 runSpr = spr_charRun;
-rollSpr = spr_roll;
-deathSpr = spr_death;
+deathSpr = spr_charDeath;
 hurtSpr = spr_charHurt;
 
 //Tiles
