@@ -78,6 +78,7 @@ if onGround && xspd == 0 {sprite_index = idleSpr;};
 //attack
 #region
 
+
 #endregion
 
 
